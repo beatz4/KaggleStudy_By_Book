@@ -1,0 +1,13 @@
+
+chapter 4. 분류 Summary
+
+1. classification 종류
+- Bayes => Naive Bayes
+- Logistic Regression
+- Decision Tree
+- Support Vector Machine
+- Neural Network
+- Ensemble
+
+-> 이 책에서는 앙상블(Ensemble)로 진행을 하는데 다른/같은 Classification을 혼합하여 사용하는 분류기이다.
+
